@@ -21,5 +21,6 @@ este es mi primer sitio web trata de mi autobiografia  y otros aspectos publicos
 
 - Proyecto de vida a 2022
 
-### odservaciones:
-- Se trta de un sitio web a "blanco y negro" (solo html), que ase uso de todas las etiquetas vistas hasta ahora: texto
+### Observaciones:
+- Se trata de un sitio web a "blanco y negro" (solo HTML), que hace uso de todas las etiquetas vistas hasta ahora: texto,imagenes,videos,link,tablas,formularios,etc.
+- Cda pagina manejra minimamente la plantilla
